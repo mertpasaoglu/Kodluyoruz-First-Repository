@@ -13,4 +13,4 @@
 # Contributing
 ### Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # Licence
-[https://choosealicense.com/licenses/mit/](MIT)
+[https://choosealicense.com/licenses/mit/] (MIT)
